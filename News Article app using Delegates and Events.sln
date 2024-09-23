@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News Article app using Delegates and Events", "News Article app using Delegates and Events\News Article app using Delegates and Events.csproj", "{EB2ED04F-7185-40BA-81EE-ABB068C0C0B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB2ED04F-7185-40BA-81EE-ABB068C0C0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2ED04F-7185-40BA-81EE-ABB068C0C0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2ED04F-7185-40BA-81EE-ABB068C0C0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2ED04F-7185-40BA-81EE-ABB068C0C0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88A689D7-BC2A-438C-A8AE-CC2F1F1BCC2B}
+	EndGlobalSection
+EndGlobal
